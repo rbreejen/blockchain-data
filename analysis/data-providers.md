@@ -9,4 +9,6 @@
 |**The Graph**|Indexed Data|✅ Yes|❌ No|❌ No|Free tier with access to hosted service; supports subgraph deployments; API key required for production use|Provides decentralized indexing and querying of blockchain data via GraphQL.|[thegraph.com](https://thegraph.com/)|[Docs](https://thegraph.com/docs/)|BSV: ❌ Sonic: ❌ ICP: ❌ Aptos: ✅ Solana: ✅ Taraxa: ❌ Arbitrum: ✅ MultiversX: ❌ Kaia: ❌ Telos: ❌ Sei: ❌ NEAR: ✅ Hedera: ❌ Polkadot: ✅ Arthera: ❌ Algorand: ❌|
 |Goldsky|Indexed Data|✅ Yes|❌ No|✅ Yes (Subgraphs)|Free tier with access to subgraph deployments; supports EVM chains; API key required|Provides real-time data access through subgraphs and firehose.|[goldsky.com](https://goldsky.com/)|[Docs](https://docs.goldsky.com/)|BSV: ❌ Sonic: ❌ ICP: ❌ Aptos: ✅ Solana: ✅ Taraxa: ❌ Arbitrum: ✅ MultiversX: ❌ Kaia: ❌ Telos: ❌ Sei: ❌ NEAR: ❌ Hedera: ❌ Polkadot: ❌ Arthera: ❌ Algorand: ❌|
 
-ICP: https://internetcomputer.org/docs/references/dashboard-apis
+ICP: https://internetcomputer.org/docs/references/dashboard-apis,
+https://icp.footprint.network/transaction
+Solana: https://solscan.io/analytics, https://dune.com/solana_team/solana-program-tagging
